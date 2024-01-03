@@ -1,0 +1,7 @@
+bgc_id,gbk_path,genome_id,source
+BGC0001070.region001,data/region_gbks_v2/known_molecule_bgcs/kirromycin/clinker/input/BGC0001070.region001_kirromycin_7.0.0_reference.gbk,unknown,MIBIG
+CP108514.region033,data/region_gbks_v2/known_molecule_bgcs/kirromycin/clinker/input/CP108514.region033.gbk,unknown,bgcflow
+CP109199.region008,data/region_gbks_v2/known_molecule_bgcs/kirromycin/clinker/input/CP109199.region008.gbk,unknown,bgcflow
+CP109455.region036,data/region_gbks_v2/known_molecule_bgcs/kirromycin/clinker/input/CP109455.region036.gbk,unknown,bgcflow
+CP109460.region032,data/region_gbks_v2/known_molecule_bgcs/kirromycin/clinker/input/CP109460.region032.gbk,unknown,bgcflow
+NBC_01571_1.region008,data/region_gbks_v2/known_molecule_bgcs/kirromycin/clinker/input/NBC_01571_1.region008.gbk,unknown,bgcflow

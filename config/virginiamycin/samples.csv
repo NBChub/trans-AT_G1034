@@ -1,0 +1,6 @@
+bgc_id,gbk_path,genome_id,source
+BGC0001116.region001,data/region_gbks_v2/known_molecule_bgcs/virginiamycin/clinker/input/BGC0001116.region001_virginiamycin_7.0.0_reference.gbk,unknown,MIBIG
+CP107872.region001,data/region_gbks_v2/known_molecule_bgcs/virginiamycin/clinker/input/CP107872.region001.gbk,unknown,bgcflow
+CP108424.region001,data/region_gbks_v2/known_molecule_bgcs/virginiamycin/clinker/input/CP108424.region001.gbk,unknown,bgcflow
+NBC_01458_8.region001,data/region_gbks_v2/known_molecule_bgcs/virginiamycin/clinker/input/NBC_01458_8.region001.gbk,unknown,bgcflow
+NBC_01548_4.region001,data/region_gbks_v2/known_molecule_bgcs/virginiamycin/clinker/input/NBC_01548_4.region001.gbk,unknown,bgcflow

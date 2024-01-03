@@ -1,0 +1,11 @@
+bgc_id,gbk_path,genome_id,source
+BGC0000171,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/BGC0000171_9-methylstreptimidone_7.0.0_reference.gbk,unknown,MIBIG
+CP108365.region001,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/CP108365.region001.gbk,unknown,bgcflow
+CP108365.region031,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/CP108365.region031.gbk,unknown,bgcflow
+CP108513.region027,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/CP108513.region027.gbk,unknown,bgcflow
+CP108826.region010,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/CP108826.region010.gbk,unknown,bgcflow
+CP109475.region026,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/CP109475.region026.gbk,unknown,bgcflow
+CP109481.region007,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/CP109481.region007.gbk,unknown,bgcflow
+NBC_00365_5.region001,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/NBC_00365_5.region001.gbk,unknown,bgcflow
+NBC_01719_4.region029,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/NBC_01719_4.region029.gbk,unknown,bgcflow
+NBC_01728_4.region034,data/region_gbks_v2/known_molecule_bgcs/9-methylstreptimidone/clinker/input/NBC_01728_4.region034.gbk,unknown,bgcflow

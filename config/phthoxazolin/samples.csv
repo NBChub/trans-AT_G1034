@@ -1,0 +1,4 @@
+bgc_id,gbk_path,genome_id,source
+BGC0001740.region001,data/region_gbks_v2/known_molecule_bgcs/phthoxazolin/clinker/input/BGC0001740.region001_phthoxazolin_7.0.0_reference.gbk,unknown,MIBIG
+CP108404.region040,data/region_gbks_v2/known_molecule_bgcs/phthoxazolin/clinker/input/CP108404.region040.gbk,unknown,bgcflow
+CP108476.region044,data/region_gbks_v2/known_molecule_bgcs/phthoxazolin/clinker/input/CP108476.region044.gbk,unknown,bgcflow

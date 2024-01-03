@@ -1,0 +1,6 @@
+bgc_id,gbk_path,genome_id,source
+BGC0002385,data/region_gbks_v2/known_molecule_bgcs/dumulmycin/clinker/input/BGC0002385_dumulmycin_7.0.0_reference.gbk,unknown,MIBIG
+CP108229.region028,data/region_gbks_v2/known_molecule_bgcs/dumulmycin/clinker/input/CP108229.region028.gbk,unknown,bgcflow
+CP108289.region008,data/region_gbks_v2/known_molecule_bgcs/dumulmycin/clinker/input/CP108289.region008.gbk,unknown,bgcflow
+CP108613.region027,data/region_gbks_v2/known_molecule_bgcs/dumulmycin/clinker/input/CP108613.region027.gbk,unknown,bgcflow
+NBC_00240_3.region020,data/region_gbks_v2/known_molecule_bgcs/dumulmycin/clinker/input/NBC_00240_3.region020.gbk,unknown,bgcflow

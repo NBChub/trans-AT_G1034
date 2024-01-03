@@ -1,0 +1,4 @@
+bgc_id,gbk_path,genome_id,source
+BGC0001101,data/region_gbks_v2/known_molecule_bgcs/leinamycin/clinker/input/BGC0001101_leinamycin_7.0.0_reference.gbk,unknown,MIBIG
+CP109486.region003,data/region_gbks_v2/known_molecule_bgcs/leinamycin/clinker/input/CP109486.region003.gbk,unknown,bgcflow
+CP109590.region001,data/region_gbks_v2/known_molecule_bgcs/leinamycin/clinker/input/CP109590.region001.gbk,unknown,bgcflow

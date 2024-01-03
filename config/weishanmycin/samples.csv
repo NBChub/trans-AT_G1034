@@ -1,0 +1,6 @@
+bgc_id,gbk_path,genome_id,source
+BGC0001823.region001,data/region_gbks_v2/known_molecule_bgcs/weishanmycin/clinker/input/BGC0001823.region001_weishanmycin_7.0.0_reference.gbk,unknown,MIBIG
+CP108057.region022,data/region_gbks_v2/known_molecule_bgcs/weishanmycin/clinker/input/CP108057.region022.gbk,unknown,bgcflow
+CP108577.region004,data/region_gbks_v2/known_molecule_bgcs/weishanmycin/clinker/input/CP108577.region004.gbk,unknown,bgcflow
+CP108768.region020,data/region_gbks_v2/known_molecule_bgcs/weishanmycin/clinker/input/CP108768.region020.gbk,unknown,bgcflow
+NBC_01565_3.region021,data/region_gbks_v2/known_molecule_bgcs/weishanmycin/clinker/input/NBC_01565_3.region021.gbk,unknown,bgcflow
