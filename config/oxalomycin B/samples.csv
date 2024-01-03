@@ -1,6 +1,0 @@
-bgc_id,gbk_path,genome_id,source
-BGC0001106.region001,data/region_gbks_v2/known_molecule_bgcs/oxalomycin B/clinker/input/BGC0001106.region001_oxalomycin_7.0.0_reference.gbk,unknown,MIBIG
-CP107782.region017,data/region_gbks_v2/known_molecule_bgcs/oxalomycin B/clinker/input/CP107782.region017.gbk,unknown,bgcflow
-CP107963.region022,data/region_gbks_v2/known_molecule_bgcs/oxalomycin B/clinker/input/CP107963.region022.gbk,unknown,bgcflow
-CP108368.region015,data/region_gbks_v2/known_molecule_bgcs/oxalomycin B/clinker/input/CP108368.region015.gbk,unknown,bgcflow
-CP108974.region019,data/region_gbks_v2/known_molecule_bgcs/oxalomycin B/clinker/input/CP108974.region019.gbk,unknown,bgcflow

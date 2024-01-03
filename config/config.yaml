@@ -21,21 +21,22 @@ projects:
 #  - pep: config/Ecoli_gtdbtk/project_config.yaml
 
 bgc_projects:
-  - pep: config/9-methylstreptimidone/project_config.yaml
-#  - pep: config/cycloheximide/project_config.yaml
-  - pep: config/dumulmycin/project_config.yaml
-#  - pep: config/inthomycin_B/project_config.yaml
-  - pep: config/iso-migrastatin/project_config.yaml
   - pep: config/kirromycin/project_config.yaml
-  - pep: config/lagriamide/project_config.yaml
-  - pep: config/lagriene/project_config.yaml
   - pep: config/lankamycin/project_config.yaml
-#  - pep: config/largimiycin_38/project_config.yaml
-  - pep: config/leinamycin/project_config.yaml
-#  - pep: config/oxalomycin_B/project_config.yaml
-  - pep: config/phthoxazolin/project_config.yaml
+  - pep: config/dumulmycin/project_config.yaml
   - pep: config/virginiamycin/project_config.yaml
+  - pep: config/inthomycin_B/project_config.yaml
+  - pep: config/phthoxazolin/project_config.yaml
+  - pep: config/largimiycin_38/project_config.yaml
+  - pep: config/oxalomycin_B/project_config.yaml
+  - pep: config/leinamycin/project_config.yaml
   - pep: config/weishanmycin/project_config.yaml
+
+#  - pep: config/9-methylstreptimidone/project_config.yaml
+#  - pep: config/cycloheximide/project_config.yaml
+#  - pep: config/iso-migrastatin/project_config.yaml
+#  - pep: config/lagriamide/project_config.yaml
+#  - pep: config/lagriene/project_config.yaml
 
 #### GLOBAL RULE CONFIGURATION ####
 # This section configures the rules to run globally.

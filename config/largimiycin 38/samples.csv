@@ -1,6 +1,0 @@
-bgc_id,gbk_path,genome_id,source
-BGC0001853,data/region_gbks_v2/known_molecule_bgcs/largimiycin 38/clinker/input/BGC0001853_largimycin_7.0.0_reference.gbk,unknown,MIBIG
-CP107919.region010,data/region_gbks_v2/known_molecule_bgcs/largimiycin 38/clinker/input/CP107919.region010.gbk,unknown,bgcflow
-CP108121.region007,data/region_gbks_v2/known_molecule_bgcs/largimiycin 38/clinker/input/CP108121.region007.gbk,unknown,bgcflow
-CP109090.region020,data/region_gbks_v2/known_molecule_bgcs/largimiycin 38/clinker/input/CP109090.region020.gbk,unknown,bgcflow
-CP109435.region001,data/region_gbks_v2/known_molecule_bgcs/largimiycin 38/clinker/input/CP109435.region001.gbk,unknown,bgcflow

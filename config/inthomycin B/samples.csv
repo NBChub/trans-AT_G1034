@@ -1,5 +1,0 @@
-bgc_id,gbk_path,genome_id,source
-BGC0002451.region001,data/region_gbks_v2/known_molecule_bgcs/inthomycin B/clinker/input/BGC0002451.region001_inthomycin_7.0.0.gbk,unknown,MIBIG
-CP108038.region030,data/region_gbks_v2/known_molecule_bgcs/inthomycin B/clinker/input/CP108038.region030.gbk,unknown,bgcflow
-CP108039.region010,data/region_gbks_v2/known_molecule_bgcs/inthomycin B/clinker/input/CP108039.region010.gbk,unknown,bgcflow
-NBC_00465_1.region004,data/region_gbks_v2/known_molecule_bgcs/inthomycin B/clinker/input/NBC_00465_1.region004.gbk,unknown,bgcflow
