@@ -1,0 +1,7 @@
+bgc_id,gbk_path,genome_id,source
+CP108106.region004,data/region_gbks_v2/unique_GCFs/GCF2/clinker/input/CP108106.region004.gbk,unknown,bgcflow
+CP108253.region034,data/region_gbks_v2/unique_GCFs/GCF2/clinker/input/CP108253.region034.gbk,unknown,bgcflow
+CP108295.region004,data/region_gbks_v2/unique_GCFs/GCF2/clinker/input/CP108295.region004.gbk,unknown,bgcflow
+CP109019.region004,data/region_gbks_v2/unique_GCFs/GCF2/clinker/input/CP109019.region004.gbk,unknown,bgcflow
+CP109038.region033,data/region_gbks_v2/unique_GCFs/GCF2/clinker/input/CP109038.region033.gbk,unknown,bgcflow
+CP130716.region004,data/region_gbks_v2/unique_GCFs/GCF2/clinker/input/CP130716.region004.gbk,unknown,bgcflow

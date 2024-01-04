@@ -31,7 +31,13 @@ bgc_projects:
   - pep: config/oxalomycin_B/project_config.yaml
   - pep: config/leinamycin/project_config.yaml
   - pep: config/weishanmycin/project_config.yaml
-
+#  - pep: config/GCF1/project_config.yaml
+  - pep: config/GCF2/project_config.yaml
+  - pep: config/GCF3/project_config.yaml
+  - pep: config/GCF4/project_config.yaml
+  - pep: config/GCF5/project_config.yaml
+  - pep: config/GCF6/project_config.yaml
+  - pep: config/GCF7/project_config.yaml
 #  - pep: config/9-methylstreptimidone/project_config.yaml
 #  - pep: config/cycloheximide/project_config.yaml
 #  - pep: config/iso-migrastatin/project_config.yaml

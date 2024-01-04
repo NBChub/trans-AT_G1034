@@ -1,8 +1,0 @@
-bgc_id,gbk_path,genome_id,source
-BGC0000177,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/BGC0000177.gbk,unknown,MIBIG
-CP107840.region012,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/CP107840.region012.gbk,unknown,bgcflow
-CP107923.region026,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/CP107923.region026.gbk,unknown,bgcflow
-CP107982.region036,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/CP107982.region036.gbk,unknown,bgcflow
-CP107994.region007,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/CP107994.region007.gbk,unknown,bgcflow
-CP108403.region025,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/CP108403.region025.gbk,unknown,bgcflow
-CP108428.region014,data/region_gbks_v2/known_molecule_bgcs/iso-migrastatin/clinker/input/CP108428.region014.gbk,unknown,bgcflow

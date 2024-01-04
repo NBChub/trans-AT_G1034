@@ -1,0 +1,11 @@
+description: A selection of BGCs producing GCF5
+name: GCF5
+pep_version: 2.1.0
+rules:
+  bigscape: false
+  bigslice: false
+  clinker: true
+  interproscan: false
+  mmseqs2: true
+  query-bigslice: false
+sample_table: samples.csv

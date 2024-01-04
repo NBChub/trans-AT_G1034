@@ -1,0 +1,4 @@
+bgc_id,gbk_path,genome_id,source
+CP108390.region004,data/region_gbks_v2/unique_GCFs/GCF3/clinker/input/CP108390.region004.gbk,unknown,bgcflow
+CP108853.region019,data/region_gbks_v2/unique_GCFs/GCF3/clinker/input/CP108853.region019.gbk,unknown,bgcflow
+NBC_01669_4.region002,data/region_gbks_v2/unique_GCFs/GCF3/clinker/input/NBC_01669_4.region002.gbk,unknown,bgcflow
