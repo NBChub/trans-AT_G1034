@@ -1,1 +1,11 @@
-
+bgc_id,gbk_path,genome_id,source
+CP108849.region024,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP108849.region024.gbk,unknown,bgcflow
+CP109126.region002,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109126.region002.gbk,unknown,bgcflow
+CP109317.region027,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109317.region027.gbk,unknown,bgcflow
+CP109368.region026,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109368.region026.gbk,unknown,bgcflow
+CP109389.region010,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109389.region010.gbk,unknown,bgcflow
+CP109393.region010,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109393.region010.gbk,unknown,bgcflow
+CP109421.region009,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109421.region009.gbk,unknown,bgcflow
+CP109483.region024,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109483.region024.gbk,unknown,bgcflow
+CP109495.region010,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109495.region010.gbk,unknown,bgcflow
+CP109522.region026,data/region_gbks_v2/unique_GCFs/GCF1/clinker/input/CP109522.region026.gbk,unknown,bgcflow
