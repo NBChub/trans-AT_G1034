@@ -3,7 +3,7 @@ Analysis of TransAT PKS in the G1000 dataset
 
 ## Prerequisites
 1. Setup BGCFlow following the [quickstart guide](https://github.com/NBChub/bgcflow?tab=readme-ov-file#quick-start)
-2. This analysis utilizes this particular BGCFlow version: https://github.com/NBChub/bgcflow/tree/dev-0.8.1-2
+2. This analysis utilizes this particular BGCFlow version: [`dev-0.8.1-2`](https://github.com/NBChub/bgcflow/tree/dev-0.8.1-2)
 ```bash
 BGCFLOW_DIR="bgcflow" # change according to your local path of BGCFlow
 BGCFLOW_VERSION="dev-0.8.1-2"
@@ -33,4 +33,4 @@ bgcflow run --workflow BGC -c 16 -n # this is a dry-run
 
 ## Polishing the clinker figures
 Due to current issue of clinker: https://github.com/gamcil/clinker/issues/106, the resulting svg from clinker might not be correctly annotated.
-We provide a script to correct the svg generated using the session json. See [`notebooks/clinker_svg_correction.py`](`notebooks/clinker_svg_correction.py`) for more details how to use it.
+We provide a script to correct the svg generated using the session json. See [`notebooks/clinker_svg_correction.py`](notebooks/clinker_svg_correction.py) for more details how to use it.
