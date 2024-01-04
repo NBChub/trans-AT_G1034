@@ -1,0 +1,6 @@
+.panoptes.db
+.snakemake
+data/interim/
+resources
+workflow
+logs
