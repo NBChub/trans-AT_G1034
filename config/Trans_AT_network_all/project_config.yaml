@@ -1,12 +1,12 @@
-description: A selection of BGCs producing largimiycin_38
+description: A selection of BGCs producing Trans_AT_network_all
 gtdb-tax: ../gtdbtk.bac120.summary.tsv
-name: largimiycin_38
+name: Trans_AT_network_all
 pep_version: 2.1.0
 rules:
-  bigscape: false
+  bigscape: true
   bigslice: false
-  clinker: true
+  clinker: false
   interproscan: false
-  mmseqs2: true
+  mmseqs2: false
   query-bigslice: false
 sample_table: samples_curated.csv

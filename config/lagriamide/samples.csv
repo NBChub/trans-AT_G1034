@@ -1,0 +1,4 @@
+bgc_id,gbk_path,genome_id,source
+BGC0001646,data/region_gbks_v2/known_molecule_bgcs/lagriamide/clinker/input/BGC0001646.gbk,unknown,MIBIG
+CP108849.region024,data/region_gbks_v2/known_molecule_bgcs/lagriamide/clinker/input/CP108849.region024.gbk,unknown,bgcflow
+CP109483.region024,data/region_gbks_v2/known_molecule_bgcs/lagriamide/clinker/input/CP109483.region024.gbk,unknown,bgcflow

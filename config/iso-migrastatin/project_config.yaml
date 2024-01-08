@@ -1,6 +1,6 @@
-description: A selection of BGCs producing largimiycin_38
+description: A selection of BGCs producing iso-migrastatin
 gtdb-tax: ../gtdbtk.bac120.summary.tsv
-name: largimiycin_38
+name: iso-migrastatin
 pep_version: 2.1.0
 rules:
   bigscape: false

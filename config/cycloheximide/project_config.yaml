@@ -1,6 +1,5 @@
-description: A selection of BGCs producing GCF3
-gtdb-tax: ../gtdbtk.bac120.summary.tsv
-name: GCF3
+description: A selection of BGCs producing cycloheximide
+name: cycloheximide
 pep_version: 2.1.0
 rules:
   bigscape: false
@@ -9,4 +8,4 @@ rules:
   interproscan: false
   mmseqs2: true
   query-bigslice: false
-sample_table: samples_curated.csv
+sample_table: samples.csv

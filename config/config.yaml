@@ -16,11 +16,10 @@
 
 projects:
 # Project 2 (PEP file)
-#  - pep: config/Cutibacterium/project_config.yaml
   - pep: config/Lactobacillus_delbrueckii/project_config.yaml
-#  - pep: config/Ecoli_gtdbtk/project_config.yaml
 
 bgc_projects:
+  - pep: config/Trans_AT_network_all/project_config.yaml
   - pep: config/kirromycin/project_config.yaml
   - pep: config/lankamycin/project_config.yaml
   - pep: config/dumulmycin/project_config.yaml
