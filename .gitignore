@@ -4,3 +4,4 @@ data/interim/
 resources
 workflow
 logs
+.ipynb_checkpoints/
