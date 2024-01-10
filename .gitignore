@@ -5,3 +5,8 @@ resources
 workflow
 logs
 .ipynb_checkpoints/
+data/external/df_genomes_meta.csv
+data/external/G1034_Trans-AT-PKS_incl-hybrids_v1.csv
+data/external/103_table_v5.xlsx
+data/region_gbks_v2/
+tables/Supplementary.xlsx
