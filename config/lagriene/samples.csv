@@ -1,3 +1,4 @@
 bgc_id,gbk_path,genome_id,source
+BGC0002455,data/region_gbks_v2/known_molecule_bgcs/lagriene/clinker/input/BGC0002455.gbk,unknown,MIBIG
 BGC0002455.region001,data/region_gbks_v2/known_molecule_bgcs/lagriene/clinker/input/BGC0002455.region001_lagriene_7.0.0_ref.gbk,unknown,MIBIG
 NBC_01287_2.region001,data/region_gbks_v2/known_molecule_bgcs/lagriene/clinker/input/NBC_01287_2.region001.gbk,unknown,bgcflow
